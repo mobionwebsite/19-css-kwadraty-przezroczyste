@@ -1,0 +1,38 @@
+.square-top {
+    background-color: #f5f5dd;
+    width: 400px;
+    height: 600px;
+}
+
+#first {
+    margin-top: 100px;
+    width: 130px;
+    height: 130px;
+    background-color: #000000;
+}
+
+#second {
+    width: 130px;
+    height: 130px;
+    background-color: #000000b3;
+}
+
+#third {
+    width: 130px;
+    height: 130px;
+    background-color: #00000061;
+}
+
+#fourth {
+    width: 130px;
+    height: 130px;
+    background-color: #00000029;
+}
+
+#first,
+#second,
+#third,
+#fourth {
+    margin-bottom: 10px;
+    margin-left: 120px;
+}
